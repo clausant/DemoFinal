@@ -111,5 +111,5 @@ jobs:
           format: 'table'
           exit-code: '0'
           ignore-unfixed: false
-          severity: 'UNKNOWN,LOW,MEDIUM,HIGH,CRITICAL'
+          severity: 'MEDIUM,HIGH,CRITICAL'
 
